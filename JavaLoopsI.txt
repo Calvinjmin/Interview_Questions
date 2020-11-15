@@ -1,0 +1,17 @@
+HACKERRANK Problem - https://www.hackerrank.com/challenges/java-loops-i/problem
+
+Brief desciprtion of the problem:
+Given an integer, N, print its first 10 multiples. 
+Each multiple (N x i), where 1 <= i <= 10 should be printed on a new line in the form: N x i = result.
+
+Answer in Java 8:
+    int N = scanner.nextInt();                              //Given Code
+    scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");       //Given Code
+    for ( int i = 0; i < 10; i++ ) {                        //ANSWER
+        System.out.println( N + " x " + (i+1) + " = " + (N * (i+1)) );
+    }
+
+How does it work?
+    The for loop will happen 10 consecutive times, where the variable i is the iterator and N is the constant given.
+    Each instance the loop runs, a new calculation occurs with the multiplication of (i+1) and N.
+        ** The notation (i+1) is used because the loop starts at 0 and goes till 9, where the code ask for 1 to 10.
