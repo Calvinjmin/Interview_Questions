@@ -4,4 +4,4 @@ Will contain answers and questions from HackerRank and Leetcode. <br />
 Link to HackerRank - [Hackerank](https://www.hackerrank.com/) <br />
 Link to Leetcode - [Leetcode](https://leetcode.com/) <br />
 
-Calvin Min - Second Year Undergraduate student at the University of Virginia
+Calvin Min - Undergraduate student at the University of Virginia
