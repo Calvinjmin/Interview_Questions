@@ -1,0 +1,24 @@
+HACKERRANK Problem - https://www.hackerrank.com/challenges/java-stdin-stdout/problem
+
+Brief description of the problem:
+Using Java's Console, take in a integer, a double, and a string using stdin, then print the values
+in the order defined in the instructions. 
+
+Answer in Java 8:
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int i = scan.nextInt();             //Written Code
+        double d = scan.nextDouble();       //Written Code
+        scan.nextLine();                    //Written Code
+        String s = scan.nextLine();         //Wrtiten Code
+        scan.close();                       //Written Code
+
+        System.out.println("String: " + s);
+        System.out.println("Double: " + d);
+        System.out.println("Int: " + i);
+    }
+
+How does it work?
+    One part of the code that seems different from most is the first "scan.nextLine()" after the initalization of 
+    the double variable. This is due to the cursor being at the end of the line with the double, so that 
+    line must be used to move the cursor to the next line. Everything else is very similar to StdinandStdoutOne!

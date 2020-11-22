@@ -1,0 +1,20 @@
+HACKERRANK Problem - https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem
+
+Brief description of the problem:
+Read in 3 consecutive integers and print them out using the Java's Console.
+
+Answer in Java 8:
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int a = scan.nextInt();
+        int b = scan.nextInt();     //Written Code
+        int c = scan.nextInt();     //Written Code
+    
+        System.out.println(a);
+        System.out.println(b);      //Written Code
+        System.out.println(c);      //Written Code
+    }
+
+How does it work?
+    The two lines that say "scan.nextInt()" take in the next user input that is an integer and assigns them 
+    to variables b and c. The "System.out.println(_)" then prints the variable to the console.
