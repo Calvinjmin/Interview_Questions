@@ -10,7 +10,7 @@ Basic Solution: Recursive solution that compares the first and last letter
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class String_Reverse {
 
     public static void main(String[] args) {
 
