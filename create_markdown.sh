@@ -1,7 +1,9 @@
 #!/bin/bash
 
+# ----- Static Variables ----- #
 directory="c++"
 output_file="dynamic_file_hierarchy_table.md"
+repo_url="https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B"
 
 # ----- C++ Directory ----- #
 
@@ -33,11 +35,13 @@ for category in "${categories[@]}"; do
     for file in "$directory/$category"/*; do
         if [[ -f "$file" ]]; then
             filename=$(basename "$file")
-            filepath="$directory/$category/$filename" 
+            filepath=$(echo "$file" | sed "s|$directory/||") # Remove the base directory
+            url_encoded_filepath=$(echo "$filepath" | sed 's/ /%20/g') # URL encode spaces
+            url="$repo_url/$filepath"
             description=$(head -n 1 "$file") 
             description=$(trim_description "$description") 
             description=${description//|/\\|} 
-            echo "| [\`$filename\`](./$filepath) | $description |" >> "$output_file"
+            echo "| [\`$filename\`]($url) | $description |" >> "$output_file"
         fi
     done
 
