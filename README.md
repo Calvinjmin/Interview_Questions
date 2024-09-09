@@ -8,10 +8,23 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 |---|---|
 | [best-time-to-buy-and-sell-stock-121.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/best-time-to-buy-and-sell-stock-121.cpp) |  Sliding Window - [Leetcode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
 
+#### Two_Pointer
+
+| File Name | Description |
+|---|---|
+| [containter-with-most-water-11.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Two_Pointer/containter-with-most-water-11.cpp) |  Out to In Two Pointer - [Leetcode 11](https://leetcode.com/problems/container-with-most-water/description/) |
+
+#### Greedy
+
+| File Name | Description |
+|---|---|
+| [jump-game-55.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Greedy/jump-game-55.cpp) |  Greedy Choice - [Leetcode 55](https://leetcode.com/problems/jump-game/description/) |
+
 #### Dynamic_Programming
 
 | File Name | Description |
 |---|---|
+| [coin-change-322.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/coin-change-322.cpp) |  Bottom Up DP - [Leetcode 322](https://leetcode.com/problems/coin-change/description/) |
 | [house-robber-198.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/house-robber-198.cpp) |  Basic DP Question - [Leetcode 198](https://leetcode.com/problems/house-robber/description/) |
 
 #### Graph
@@ -19,12 +32,6 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [number-of-islands-200.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Graph/number-of-islands-200.cpp) |  BFS on 2D Matrix - [Leetcode 200](https://leetcode.com/problems/number-of-islands/) |
-
-#### Greedy
-
-| File Name | Description |
-|---|---|
-| [jump-game-55.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Greedy/jump-game-55.cpp) |  Greedy Choice - [Leetcode 55](https://leetcode.com/problems/jump-game/description/) |
 
 #### Hash_Table
 

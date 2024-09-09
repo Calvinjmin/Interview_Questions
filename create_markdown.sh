@@ -11,7 +11,7 @@ echo "### C++ Files" > "$output_file"
 echo "" >> "$output_file"
 
 # Sub Directories
-categories=("Array" "Dynamic_Programming" "Graph" "Greedy" "Hash_Table" "Heap" "Trees")
+categories=("Array" "Two_Pointer" "Greedy" "Dynamic_Programming" "Graph" "Hash_Table" "Heap" "Trees")
 
 relative_path() {
     local target="$1"
