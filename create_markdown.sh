@@ -29,15 +29,9 @@ trim_description() {
 # Start of README.md
 {
     echo "# Interview Questions"
-    echo ""
     echo "The purpose of this repo is to keep track of key algorithms/solutions for common Leetcode questions. Furthermore, there will be solutions in multiple languages to show the versatility of my coding abilities."
-    echo ""
-    echo "---"
-    echo ""
     echo "## Languages"
-    echo ""
     echo "### C++ Files"
-    echo ""
 } > "$output_file"
 
 for category in "${categories[@]}"; do
@@ -55,7 +49,7 @@ for category in "${categories[@]}"; do
             description=$(head -n 1 "$file") 
             description=$(trim_description "$description") 
             description=${description//|/\\|} 
-            echo "| [\`$filename\`]($url) | $description |" >> "$output_file"
+            echo "| [$filename]($url) | $description |" >> "$output_file"
         fi
     done
 
@@ -65,14 +59,10 @@ done
 
 ## Conclusion
 {
-    echo ""
     echo "---"
-    echo ""
     echo "### Resources"
-    echo ""
     echo "Link to HackerRank - [Hackerank](https://www.hackerrank.com/) <br />"
     echo "Link to Leetcode - [Leetcode](https://leetcode.com/) <br />"
-    echo ""
     echo "Calvin Min | 2024"
 } >> "$output_file"
 
