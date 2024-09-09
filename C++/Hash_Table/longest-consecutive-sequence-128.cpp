@@ -1,7 +1,4 @@
-/*
-    LeetCode Question 128
-    Longest Consecutive Sequence
-*/
+// Elevated TwoSum - [Leetcode 128](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 #include <unordered_set>
 #include <vector>

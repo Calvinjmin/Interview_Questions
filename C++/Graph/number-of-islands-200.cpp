@@ -1,8 +1,4 @@
-/*
-    LeetCode Question 200
-    Number of Islands
-*/
-
+// BFS on 2D Matrix - [Leetcode 200](https://leetcode.com/problems/number-of-islands/)
 
 #include <vector>
 

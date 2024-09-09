@@ -1,8 +1,4 @@
-/* 
-    LeetCode Question 55
-    Jump Game
-    Link - https://leetcode.com/problems/jump-game/description/
-*/
+// Greedy Choice - [Leetcode 55](https://leetcode.com/problems/jump-game/description/)
 
 #include <vector>
 using namespace std;

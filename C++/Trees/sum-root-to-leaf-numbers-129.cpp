@@ -1,7 +1,4 @@
-/*
-    LeetCode Question 129
-    Sum Root to Leaf Numbers
-*/
+// Basic Path DFS - [Leetcode 129](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 
 #include <string>
 

@@ -1,7 +1,4 @@
-/*
-    LeetCode Question 198
-    House Robber
-*/
+// Basic DP Question - [Leetcode 198](https://leetcode.com/problems/house-robber/description/)
 
 #include <vector>
 

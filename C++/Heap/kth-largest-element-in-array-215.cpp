@@ -1,7 +1,4 @@
-/*
-    LeetCode Question 215
-    Kth Largest Element in Array
-*/
+// Min Heap O(n) Loop - [Leetcode 215](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 
 #include <queue>
 #include <vector>

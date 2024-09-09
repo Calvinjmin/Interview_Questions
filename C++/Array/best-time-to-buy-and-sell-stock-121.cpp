@@ -1,7 +1,4 @@
-/* 
-    LeetCode Question 121
-    Best Time to Buy and Sell Stock
-*/
+// Sliding Window - [Leetcode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 
 #include <vector>
 
