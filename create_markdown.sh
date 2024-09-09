@@ -2,7 +2,7 @@
 
 # ----- Static Variables ----- #
 directory="c++"
-output_file="dynamic_file_hierarchy_table.md"
+output_file="README.md"
 repo_url="https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B"
 
 # ----- C++ Directory ----- #
@@ -26,6 +26,20 @@ trim_description() {
     echo "${description:2}"
 }
 
+# Start of README.md
+{
+    echo "# Interview Questions"
+    echo ""
+    echo "The purpose of this repo is to keep track of key algorithms/solutions for common Leetcode questions. Furthermore, there will be solutions in multiple languages to show the versatility of my coding abilities."
+    echo ""
+    echo "---"
+    echo ""
+    echo "## Languages"
+    echo ""
+    echo "### C++ Files"
+    echo ""
+} > "$output_file"
+
 for category in "${categories[@]}"; do
     echo "#### $category" >> "$output_file"
     echo "" >> "$output_file"
@@ -48,5 +62,18 @@ for category in "${categories[@]}"; do
     echo "" >> "$output_file"
 done
 
-echo "" >> "$output_file"
+
+## Conclusion
+{
+    echo ""
+    echo "---"
+    echo ""
+    echo "### Resources"
+    echo ""
+    echo "Link to HackerRank - [Hackerank](https://www.hackerrank.com/) <br />"
+    echo "Link to Leetcode - [Leetcode](https://leetcode.com/) <br />"
+    echo ""
+    echo "Calvin Min | 2024"
+} >> "$output_file"
+
 echo "Markdown file created: $output_file"

@@ -1,7 +1,3 @@
 # VS Code Ignore Files
 /.idea
 /.vscode
-
-
-# Auto Generated Markdown File
-*dynamic_file_hierarchy_table.md
