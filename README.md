@@ -14,11 +14,18 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 |---|---|
 | [containter-with-most-water-11.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Two_Pointer/containter-with-most-water-11.cpp) |  Out to In Two Pointer - [Leetcode 11](https://leetcode.com/problems/container-with-most-water/description/) |
 
+#### Sliding_Window
+
+| File Name | Description |
+|---|---|
+| [minimum-size-subarray-sum-208.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Sliding_Window/minimum-size-subarray-sum-208.cpp) |  Sliding Window w/ Running Counter - [Leetcode 208](https://leetcode.com/problems/minimum-size-subarray-sum/description/) |
+
 #### Greedy
 
 | File Name | Description |
 |---|---|
 | [jump-game-55.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Greedy/jump-game-55.cpp) |  Greedy Choice - [Leetcode 55](https://leetcode.com/problems/jump-game/description/) |
+| [jump-game-II-45.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Greedy/jump-game-II-45.cpp) |  Greedy Choice w/ Tracker - [Leetcode 45](https://leetcode.com/problems/jump-game-ii/description/) |
 
 #### Dynamic_Programming
 
@@ -49,7 +56,14 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 
 | File Name | Description |
 |---|---|
+| [binary-tree-level-order-traversal-102.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Trees/binary-tree-level-order-traversal-102.cpp) |  BFS on Binary Tree - [Leetcode 102](https://leetcode.com/problems/binary-tree-level-order-traversal/description) |
 | [sum-root-to-leaf-numbers-129.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Trees/sum-root-to-leaf-numbers-129.cpp) |  Basic Path DFS - [Leetcode 129](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |
+
+#### Binary_Search
+
+| File Name | Description |
+|---|---|
+| [search-insert-position-35.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Binary_Search/search-insert-position-35.cpp) |  Basics of Binary Search - [Leetcode 35](https://leetcode.com/problems/search-insert-position/description) |
 
 ---
 ### Resources
