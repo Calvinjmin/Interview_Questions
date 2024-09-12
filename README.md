@@ -26,6 +26,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 |---|---|
 | [jump-game-55.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Greedy/jump-game-55.cpp) |  Greedy Choice - [Leetcode 55](https://leetcode.com/problems/jump-game/description/) |
 | [jump-game-II-45.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Greedy/jump-game-II-45.cpp) |  Greedy Choice w/ Tracker - [Leetcode 45](https://leetcode.com/problems/jump-game-ii/description/) |
+| [optimal-partition-of-string-2405.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Greedy/optimal-partition-of-string-2405.cpp) |  Take longest substring until there is a duplicate - [Leetcode 2405](https://leetcode.com/problems/optimal-partition-of-string/description/) |
 
 #### Dynamic_Programming
 
@@ -39,6 +40,12 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [number-of-islands-200.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Graph/number-of-islands-200.cpp) |  BFS on 2D Matrix - [Leetcode 200](https://leetcode.com/problems/number-of-islands/) |
+
+#### Math
+
+| File Name | Description |
+|---|---|
+| [the-kth-factor-of-n-1492.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Math/the-kth-factor-of-n-1492.cpp) |  Principles of being a factor - [Leetcode 1492](https://leetcode.com/problems/the-kth-factor-of-n/description/) |
 
 #### Hash_Table
 
