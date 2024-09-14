@@ -1,6 +1,6 @@
+// Helper TreeNode Struct
 #include <__config>
 using namespace std;
-
 
 struct TreeNode {
   int val;
