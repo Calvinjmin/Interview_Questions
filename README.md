@@ -14,11 +14,14 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [containter-with-most-water-11.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Two_Pointer/containter-with-most-water-11.cpp) |  Out to In Two Pointer - [Leetcode 11](https://leetcode.com/problems/container-with-most-water/description/) |
+| [trapping-rain-water-42.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Two_Pointer/trapping-rain-water-42.cpp) |  Two Pointer with Max Wall - [Leetcode 42](https://leetcode.com/problems/trapping-rain-water/description/) |
 
 #### Sliding_Window
 
 | File Name | Description |
 |---|---|
+| [find-all-anagrams-in-a-string-438.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Sliding_Window/find-all-anagrams-in-a-string-438.cpp) |  Prefix Window - [Leetcode 438](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |
+| [longest-substring-without-repeating-characters-3.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Sliding_Window/longest-substring-without-repeating-characters-3.cpp) |  Set with Sliding Window - [Leetcode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | [minimum-size-subarray-sum-208.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Sliding_Window/minimum-size-subarray-sum-208.cpp) |  Sliding Window w/ Running Counter - [Leetcode 208](https://leetcode.com/problems/minimum-size-subarray-sum/description/) |
 
 #### Greedy
@@ -75,6 +78,13 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [search-insert-position-35.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Binary_Search/search-insert-position-35.cpp) |  Basics of Binary Search - [Leetcode 35](https://leetcode.com/problems/search-insert-position/description) |
+
+#### Linked Lists
+
+| File Name | Description |
+|---|---|
+| [add-two-numbers-2.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Linked Lists/add-two-numbers-2.cpp) |  Tracking Two Linked Lists - [Leetcode 2](https://leetcode.com/problems/add-two-numbers/description/) |
+| [listNode.h](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Linked Lists/listNode.h) |  Helper ListNode Struct |
 
 ---
 ### Resources
