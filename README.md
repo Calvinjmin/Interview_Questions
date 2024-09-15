@@ -7,6 +7,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [best-time-to-buy-and-sell-stock-121.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/best-time-to-buy-and-sell-stock-121.cpp) |  Sliding Window - [Leetcode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
+| [kids-with-the-greatest-number-of-candies-1431.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/kids-with-the-greatest-number-of-candies-1431.cpp) |  Array Manipulation with Max Value - [Leetcode |
 
 #### Two_Pointer
 
@@ -52,6 +53,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [longest-consecutive-sequence-128.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/longest-consecutive-sequence-128.cpp) |  Elevated TwoSum - [Leetcode 128](https://leetcode.com/problems/longest-consecutive-sequence/) |
+| [minimum-number-of-keypresses-2268.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/minimum-number-of-keypresses-2268.cpp) |  Frequency Map w/ Basic Sorting - [Leetcode 2268](https://leetcode.com/problems/minimum-number-of-keypresses/description/) |
 
 #### Heap
 
