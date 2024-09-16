@@ -7,7 +7,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [best-time-to-buy-and-sell-stock-121.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/best-time-to-buy-and-sell-stock-121.cpp) |  Sliding Window - [Leetcode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
-| [kids-with-the-greatest-number-of-candies-1431.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/kids-with-the-greatest-number-of-candies-1431.cpp) |  Array Manipulation with Max Value - [Leetcode |
+| [kids-with-the-greatest-number-of-candies-1431.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/kids-with-the-greatest-number-of-candies-1431.cpp) |  Array Manipulation with Max Value - [Leetcode 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/) |
 
 #### Two_Pointer
 
@@ -23,6 +23,12 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | [find-all-anagrams-in-a-string-438.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Sliding_Window/find-all-anagrams-in-a-string-438.cpp) |  Prefix Window - [Leetcode 438](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |
 | [longest-substring-without-repeating-characters-3.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Sliding_Window/longest-substring-without-repeating-characters-3.cpp) |  Set with Sliding Window - [Leetcode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | [minimum-size-subarray-sum-208.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Sliding_Window/minimum-size-subarray-sum-208.cpp) |  Sliding Window w/ Running Counter - [Leetcode 208](https://leetcode.com/problems/minimum-size-subarray-sum/description/) |
+
+#### Backtracking
+
+| File Name | Description |
+|---|---|
+| [letter-combinations-of-a-phone-number-17.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Backtracking/letter-combinations-of-a-phone-number-17.cpp) |  Iteration with Backtracking - [Leetcode 17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description) |
 
 #### Greedy
 
@@ -79,12 +85,12 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 |---|---|
 | [search-insert-position-35.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Binary_Search/search-insert-position-35.cpp) |  Basics of Binary Search - [Leetcode 35](https://leetcode.com/problems/search-insert-position/description) |
 
-#### Linked Lists
+#### Linked_Lists
 
 | File Name | Description |
 |---|---|
-| [add-two-numbers-2.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Linked Lists/add-two-numbers-2.cpp) |  Tracking Two Linked Lists - [Leetcode 2](https://leetcode.com/problems/add-two-numbers/description/) |
-| [listNode.h](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Linked Lists/listNode.h) |  Helper ListNode Struct |
+| [add-two-numbers-2.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Linked_Lists/add-two-numbers-2.cpp) |  Tracking Two Linked Lists - [Leetcode 2](https://leetcode.com/problems/add-two-numbers/description/) |
+| [listNode.h](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Linked_Lists/listNode.h) |  Helper ListNode Struct |
 
 ---
 ### Resources
