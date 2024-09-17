@@ -8,12 +8,14 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 |---|---|
 | [best-time-to-buy-and-sell-stock-121.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/best-time-to-buy-and-sell-stock-121.cpp) |  Sliding Window - [Leetcode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
 | [kids-with-the-greatest-number-of-candies-1431.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/kids-with-the-greatest-number-of-candies-1431.cpp) |  Array Manipulation with Max Value - [Leetcode 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/) |
+| [minimum-time-difference-539.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/minimum-time-difference-539.cpp) |  Sorting and Converting String - [Leetcode 539](https://leetcode.com/problems/minimum-time-difference/description/) |
 
 #### Two_Pointer
 
 | File Name | Description |
 |---|---|
 | [containter-with-most-water-11.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Two_Pointer/containter-with-most-water-11.cpp) |  Out to In Two Pointer - [Leetcode 11](https://leetcode.com/problems/container-with-most-water/description/) |
+| [is-subsequence-392.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Two_Pointer/is-subsequence-392.cpp) |  Two Pointer with Basic Tracker - [Leetcode 392](https://leetcode.com/problems/is-subsequence/description/) |
 | [trapping-rain-water-42.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Two_Pointer/trapping-rain-water-42.cpp) |  Two Pointer with Max Wall - [Leetcode 42](https://leetcode.com/problems/trapping-rain-water/description/) |
 
 #### Sliding_Window
@@ -63,6 +65,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 |---|---|
 | [longest-consecutive-sequence-128.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/longest-consecutive-sequence-128.cpp) |  Elevated TwoSum - [Leetcode 128](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | [minimum-number-of-keypresses-2268.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/minimum-number-of-keypresses-2268.cpp) |  Frequency Map w/ Basic Sorting - [Leetcode 2268](https://leetcode.com/problems/minimum-number-of-keypresses/description/) |
+| [uncommon-words-from-two-sentences-884.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/uncommon-words-from-two-sentences-884.cpp) |  Using String Stream to Split w/ Hash Table - [Leetcode 884](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) |
 
 #### Heap
 
