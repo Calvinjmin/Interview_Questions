@@ -31,6 +31,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [letter-combinations-of-a-phone-number-17.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Backtracking/letter-combinations-of-a-phone-number-17.cpp) |  Iteration with Backtracking - [Leetcode 17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description) |
+| [word-search-79.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Backtracking/word-search-79.cpp) |  DFS Backtracking on a Grid - [Leetcode 79](https://leetcode.com/problems/word-search/description/) |
 
 #### Greedy
 
@@ -38,6 +39,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 |---|---|
 | [jump-game-55.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Greedy/jump-game-55.cpp) |  Greedy Choice - [Leetcode 55](https://leetcode.com/problems/jump-game/description/) |
 | [jump-game-II-45.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Greedy/jump-game-II-45.cpp) |  Greedy Choice w/ Tracker - [Leetcode 45](https://leetcode.com/problems/jump-game-ii/description/) |
+| [largest-number-179.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Greedy/largest-number-179.cpp) |  Greedy Choice with sorting based on string concatenation - [Leetcode 179](https://leetcode.com/problems/largest-number/description/) |
 | [optimal-partition-of-string-2405.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Greedy/optimal-partition-of-string-2405.cpp) |  Take longest substring until there is a duplicate - [Leetcode 2405](https://leetcode.com/problems/optimal-partition-of-string/description/) |
 
 #### Dynamic_Programming
@@ -51,6 +53,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 
 | File Name | Description |
 |---|---|
+| [number-of-closed-islands-1254.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Graph/number-of-closed-islands-1254.cpp) |  BFS on 2D Matrix with a Twist - [Leetcode 1254](https://leetcode.com/problems/number-of-closed-islands/) |
 | [number-of-islands-200.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Graph/number-of-islands-200.cpp) |  BFS on 2D Matrix - [Leetcode 200](https://leetcode.com/problems/number-of-islands/) |
 
 #### Math
@@ -63,6 +66,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 
 | File Name | Description |
 |---|---|
+| [group-anagrams-49.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/group-anagrams-49.cpp) |  |
 | [longest-consecutive-sequence-128.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/longest-consecutive-sequence-128.cpp) |  Elevated TwoSum - [Leetcode 128](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | [minimum-number-of-keypresses-2268.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/minimum-number-of-keypresses-2268.cpp) |  Frequency Map w/ Basic Sorting - [Leetcode 2268](https://leetcode.com/problems/minimum-number-of-keypresses/description/) |
 | [uncommon-words-from-two-sentences-884.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/uncommon-words-from-two-sentences-884.cpp) |  Using String Stream to Split w/ Hash Table - [Leetcode 884](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) |
