@@ -16,6 +16,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 |---|---|
 | [containter-with-most-water-11.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Two_Pointer/containter-with-most-water-11.cpp) |  Out to In Two Pointer - [Leetcode 11](https://leetcode.com/problems/container-with-most-water/description/) |
 | [is-subsequence-392.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Two_Pointer/is-subsequence-392.cpp) |  Two Pointer with Basic Tracker - [Leetcode 392](https://leetcode.com/problems/is-subsequence/description/) |
+| [three-sum-15.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Two_Pointer/three-sum-15.cpp) |  Two Pointer with Set Tracker - [Leetcode 15](https://leetcode.com/problems/3sum/) |
 | [trapping-rain-water-42.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Two_Pointer/trapping-rain-water-42.cpp) |  Two Pointer with Max Wall - [Leetcode 42](https://leetcode.com/problems/trapping-rain-water/description/) |
 
 #### Sliding_Window
@@ -31,6 +32,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [letter-combinations-of-a-phone-number-17.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Backtracking/letter-combinations-of-a-phone-number-17.cpp) |  Iteration with Backtracking - [Leetcode 17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description) |
+| [pemutations-II-47.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Backtracking/pemutations-II-47.cpp) |  Permutations w/ all possible combinations - [Leetcode 47](https://leetcode.com/problems/permutations-ii/) |
 | [word-search-79.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Backtracking/word-search-79.cpp) |  DFS Backtracking on a Grid - [Leetcode 79](https://leetcode.com/problems/word-search/description/) |
 
 #### Greedy
@@ -69,6 +71,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | [group-anagrams-49.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/group-anagrams-49.cpp) |  |
 | [longest-consecutive-sequence-128.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/longest-consecutive-sequence-128.cpp) |  Elevated TwoSum - [Leetcode 128](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | [minimum-number-of-keypresses-2268.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/minimum-number-of-keypresses-2268.cpp) |  Frequency Map w/ Basic Sorting - [Leetcode 2268](https://leetcode.com/problems/minimum-number-of-keypresses/description/) |
+| [two-sum-1.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/two-sum-1.cpp) |  Hash Table to hold complement - [Leetcode 1](https://leetcode.com/problems/two-sum/) |
 | [uncommon-words-from-two-sentences-884.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/uncommon-words-from-two-sentences-884.cpp) |  Using String Stream to Split w/ Hash Table - [Leetcode 884](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) |
 
 #### Heap
