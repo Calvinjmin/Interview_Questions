@@ -63,6 +63,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 
 | File Name | Description |
 |---|---|
+| [reverse-integer-7.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Math/reverse-integer-7.cpp) |  Basic Math Manipulation - [Leetcode 7](https://leetcode.com/problems/reverse-integer/description/?) |
 | [the-kth-factor-of-n-1492.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Math/the-kth-factor-of-n-1492.cpp) |  Principles of being a factor - [Leetcode 1492](https://leetcode.com/problems/the-kth-factor-of-n/description/) |
 
 #### Hash_Table
