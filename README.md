@@ -50,6 +50,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 |---|---|
 | [coin-change-322.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/coin-change-322.cpp) |  Bottom Up DP - [Leetcode 322](https://leetcode.com/problems/coin-change/description/) |
 | [house-robber-198.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/house-robber-198.cpp) |  Basic DP Question - [Leetcode 198](https://leetcode.com/problems/house-robber/description/) |
+| [minimum-path-sum-64.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/minimum-path-sum-64.cpp) |  2D Matrix Dynamic Programming - [Leetcode 64](https://leetcode.com/problems/minimum-path-sum/) |
 
 #### Graph
 
@@ -88,6 +89,12 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | [binary-tree-right-side-view-199.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Trees/binary-tree-right-side-view-199.cpp) |  Level Order Traversal with a Twist - [Leetcode 199](https://leetcode.com/problems/binary-tree-right-side-view/description/) |
 | [sum-root-to-leaf-numbers-129.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Trees/sum-root-to-leaf-numbers-129.cpp) |  Basic Path DFS - [Leetcode 129](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |
 | [treeNode.h](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Trees/treeNode.h) |  Helper TreeNode Struct |
+
+#### Prefix_Tree
+
+| File Name | Description |
+|---|---|
+| [lexicographical-numbers-386.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Prefix_Tree/lexicographical-numbers-386.cpp) |  Basics of a Prefix Tree - [Leetcode 386](https://leetcode.com/problems/lexicographical-numbers) |
 
 #### Binary_Search
 
