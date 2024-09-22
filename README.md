@@ -51,6 +51,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | [coin-change-322.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/coin-change-322.cpp) |  Bottom Up DP - [Leetcode 322](https://leetcode.com/problems/coin-change/description/) |
 | [house-robber-198.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/house-robber-198.cpp) |  Basic DP Question - [Leetcode 198](https://leetcode.com/problems/house-robber/description/) |
 | [minimum-path-sum-64.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/minimum-path-sum-64.cpp) |  2D Matrix Dynamic Programming - [Leetcode 64](https://leetcode.com/problems/minimum-path-sum/) |
+| [palindromic-substrings-647.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/palindromic-substrings-647.cpp) |  2D DP with Two Pointer Logic - [Leetcode 647](https://leetcode.com/problems/palindromic-substrings/description/) |
 
 #### Graph
 
@@ -101,6 +102,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 
 | File Name | Description |
 |---|---|
+| [find-first-and-last-position-of-element-in-sorted-array-34.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Binary_Search/find-first-and-last-position-of-element-in-sorted-array-34.cpp) |  Modified Binary Search to look left and right - [Leetcode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 | [search-insert-position-35.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Binary_Search/search-insert-position-35.cpp) |  Basics of Binary Search - [Leetcode 35](https://leetcode.com/problems/search-insert-position/description) |
 
 #### Linked_Lists
