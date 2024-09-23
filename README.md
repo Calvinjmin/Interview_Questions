@@ -49,6 +49,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [coin-change-322.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/coin-change-322.cpp) |  Bottom Up DP - [Leetcode 322](https://leetcode.com/problems/coin-change/description/) |
+| [extra-characters-in-a-string-2707.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/extra-characters-in-a-string-2707.cpp) |  Bottom Up Method w/ Substring - [Leetcode 2707](https://leetcode.com/problems/extra-characters-in-a-string/description/) |
 | [house-robber-198.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/house-robber-198.cpp) |  Basic DP Question - [Leetcode 198](https://leetcode.com/problems/house-robber/description/) |
 | [minimum-path-sum-64.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/minimum-path-sum-64.cpp) |  2D Matrix Dynamic Programming - [Leetcode 64](https://leetcode.com/problems/minimum-path-sum/) |
 | [palindromic-substrings-647.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/palindromic-substrings-647.cpp) |  2D DP with Two Pointer Logic - [Leetcode 647](https://leetcode.com/problems/palindromic-substrings/description/) |
