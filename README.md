@@ -40,6 +40,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 
 | File Name | Description |
 |---|---|
+| [ipo-502.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Greedy/ipo-502.cpp) |  Maximize Profits with Priority Queue - [Leetcode 502](https://leetcode.com/problems/ipo/description/) |
 | [jump-game-55.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Greedy/jump-game-55.cpp) |  Greedy Choice - [Leetcode 55](https://leetcode.com/problems/jump-game/description/) |
 | [jump-game-II-45.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Greedy/jump-game-II-45.cpp) |  Greedy Choice w/ Tracker - [Leetcode 45](https://leetcode.com/problems/jump-game-ii/description/) |
 | [largest-number-179.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Greedy/largest-number-179.cpp) |  Greedy Choice with sorting based on string concatenation - [Leetcode 179](https://leetcode.com/problems/largest-number/description/) |
