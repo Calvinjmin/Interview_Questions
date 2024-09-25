@@ -7,6 +7,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [best-time-to-buy-and-sell-stock-121.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/best-time-to-buy-and-sell-stock-121.cpp) |  Sliding Window - [Leetcode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
+| [gas-station-.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/gas-station-.cpp) |  Math Logic with Array Trackers - [Leetcode 134](https://leetcode.com/problems/gas-station/description/) |
 | [kids-with-the-greatest-number-of-candies-1431.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/kids-with-the-greatest-number-of-candies-1431.cpp) |  Array Manipulation with Max Value - [Leetcode 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/) |
 | [minimum-time-difference-539.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/minimum-time-difference-539.cpp) |  Sorting and Converting String - [Leetcode 539](https://leetcode.com/problems/minimum-time-difference/description/) |
 
@@ -106,6 +107,12 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 |---|---|
 | [find-first-and-last-position-of-element-in-sorted-array-34.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Binary_Search/find-first-and-last-position-of-element-in-sorted-array-34.cpp) |  Modified Binary Search to look left and right - [Leetcode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 | [search-insert-position-35.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Binary_Search/search-insert-position-35.cpp) |  Basics of Binary Search - [Leetcode 35](https://leetcode.com/problems/search-insert-position/description) |
+
+#### Matrix
+
+| File Name | Description |
+|---|---|
+| [game-of-life-289.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Matrix/game-of-life-289.cpp) |  In Place Solution with Matrix Manipulation - [Leetcode 289](https://leetcode.com/problems/game-of-life/) |
 
 #### Linked_Lists
 
