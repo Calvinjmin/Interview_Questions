@@ -12,7 +12,7 @@ echo "" >> "$output_file"
 
 # Sub Directories
 categories=("Array" "Two_Pointer" "Sliding_Window" "Backtracking" "Greedy" 
-    "Dynamic_Programming" "Graph" "Math" "Hash_Table" "Heap" "Trees" "Prefix_Tree" "Binary_Search" "Matrix" "Linked_Lists")
+    "Dynamic_Programming" "Graph" "Math" "Hash_Table" "Heap" "Trees" "Prefix_Tree" "Sets" "Binary_Search" "Matrix" "Linked_Lists")
 
 relative_path() {
     local target="$1"
