@@ -69,6 +69,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 
 | File Name | Description |
 |---|---|
+| [armstrong-number-1134.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Math/armstrong-number-1134.cpp) |  Mod and Power - [Leetcode 1134](https://leetcode.com/problems/armstrong-number) |
 | [reverse-integer-7.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Math/reverse-integer-7.cpp) |  Basic Math Manipulation - [Leetcode 7](https://leetcode.com/problems/reverse-integer/description/?) |
 | [the-kth-factor-of-n-1492.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Math/the-kth-factor-of-n-1492.cpp) |  Principles of being a factor - [Leetcode 1492](https://leetcode.com/problems/the-kth-factor-of-n/description/) |
 
@@ -77,6 +78,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [group-anagrams-49.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/group-anagrams-49.cpp) |  |
+| [largest-unique-number-1133.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/largest-unique-number-1133.cpp) |  Reverse Iterator with Map - [Leetcode 1133](https://leetcode.com/problems/largest-unique-number) |
 | [longest-consecutive-sequence-128.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/longest-consecutive-sequence-128.cpp) |  Elevated TwoSum - [Leetcode 128](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | [minimum-number-of-keypresses-2268.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/minimum-number-of-keypresses-2268.cpp) |  Frequency Map w/ Basic Sorting - [Leetcode 2268](https://leetcode.com/problems/minimum-number-of-keypresses/description/) |
 | [two-sum-1.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/two-sum-1.cpp) |  Hash Table to hold complement - [Leetcode 1](https://leetcode.com/problems/two-sum/) |
