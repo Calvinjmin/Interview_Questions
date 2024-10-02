@@ -107,6 +107,13 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [my-calendar-1-729.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Sets/my-calendar-1-729.cpp) |  Lower Bound Set Method - [Leetcode 729](https://leetcode.com/problems/my-calendar-i/description/) |
+| [rank-transform-of-an-array-1331.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Sets/rank-transform-of-an-array-1331.cpp) |  Auto Sort with Set - [Leetcode 1331](https://leetcode.com/problems/rank-transform-of-an-array/) |
+
+#### Stacks
+
+| File Name | Description |
+|---|---|
+| [minimum-remove-to-make-valid-parentheses-1249.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Stacks/minimum-remove-to-make-valid-parentheses-1249.cpp) |  Valid Parentheses Sister Question - [Leetcode 1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) |
 
 #### Binary_Search
 
