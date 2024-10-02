@@ -121,6 +121,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [find-first-and-last-position-of-element-in-sorted-array-34.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Binary_Search/find-first-and-last-position-of-element-in-sorted-array-34.cpp) |  Modified Binary Search to look left and right - [Leetcode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+| [koko-eating-bananas-875.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Binary_Search/koko-eating-bananas-875.cpp) |  Binary Search to Find Rate - [Leetcode 875](https://leetcode.com/problems/koko-eating-bananas/) |
 | [search-insert-position-35.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Binary_Search/search-insert-position-35.cpp) |  Basics of Binary Search - [Leetcode 35](https://leetcode.com/problems/search-insert-position/description) |
 
 #### Matrix
