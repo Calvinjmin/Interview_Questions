@@ -26,6 +26,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 |---|---|
 | [find-all-anagrams-in-a-string-438.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Sliding_Window/find-all-anagrams-in-a-string-438.cpp) |  Prefix Window - [Leetcode 438](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |
 | [longest-substring-without-repeating-characters-3.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Sliding_Window/longest-substring-without-repeating-characters-3.cpp) |  Set with Sliding Window - [Leetcode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| [maximum-number-of-vowels-in-a-substring-of-given-length-1456.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Sliding_Window/maximum-number-of-vowels-in-a-substring-of-given-length-1456.cpp) |  O(1) Vector Lookup with Sliding Window - [Leetcode 1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [minimum-size-subarray-sum-208.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Sliding_Window/minimum-size-subarray-sum-208.cpp) |  Sliding Window w/ Running Counter - [Leetcode 208](https://leetcode.com/problems/minimum-size-subarray-sum/description/) |
 
 #### Backtracking
@@ -79,6 +80,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 
 | File Name | Description |
 |---|---|
+| [determine-if-two-strings-are-close-1657.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/determine-if-two-strings-are-close-1657.cpp) |  Set with Freq Map Equality - [Leetcode 1657](https://leetcode.com/problems/determine-if-two-strings-are-close) |
 | [group-anagrams-49.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/group-anagrams-49.cpp) |  |
 | [largest-unique-number-1133.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/largest-unique-number-1133.cpp) |  Reverse Iterator with Map - [Leetcode 1133](https://leetcode.com/problems/largest-unique-number) |
 | [longest-consecutive-sequence-128.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/longest-consecutive-sequence-128.cpp) |  Elevated TwoSum - [Leetcode 128](https://leetcode.com/problems/longest-consecutive-sequence/) |
