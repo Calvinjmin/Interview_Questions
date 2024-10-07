@@ -1,4 +1,4 @@
-// Iterative Dynamic Programming - [Leetcode 91](https://leetcode.com/problems/decode-ways/description]
+// Iterative Dynamic Programming - [Leetcode 91](https://leetcode.com/problems/decode-ways/description)
 
 using namespace std;
 

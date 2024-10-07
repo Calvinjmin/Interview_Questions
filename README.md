@@ -52,7 +52,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [coin-change-322.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/coin-change-322.cpp) |  Bottom Up DP - [Leetcode 322](https://leetcode.com/problems/coin-change/description/) |
-| [decode-ways-91.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/decode-ways-91.cpp) |  Iterative Dynamic Programming - [Leetcode 91](https://leetcode.com/problems/decode-ways/description] |
+| [decode-ways-91.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/decode-ways-91.cpp) |  Iterative Dynamic Programming - [Leetcode 91](https://leetcode.com/problems/decode-ways/description) |
 | [different-ways-to-add-parentheses-241.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/different-ways-to-add-parentheses-241.cpp) |  Breaking expressions into two with DP - [Leetcode 241](https://leetcode.com/problems/different-ways-to-add-parentheses/description) |
 | [extra-characters-in-a-string-2707.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/extra-characters-in-a-string-2707.cpp) |  Bottom Up Method w/ Substring - [Leetcode 2707](https://leetcode.com/problems/extra-characters-in-a-string/description/) |
 | [house-robber-198.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Dynamic_Programming/house-robber-198.cpp) |  Basic DP Question - [Leetcode 198](https://leetcode.com/problems/house-robber/description/) |
@@ -81,7 +81,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [determine-if-two-strings-are-close-1657.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/determine-if-two-strings-are-close-1657.cpp) |  Set with Freq Map Equality - [Leetcode 1657](https://leetcode.com/problems/determine-if-two-strings-are-close) |
-| [group-anagrams-49.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/group-anagrams-49.cpp) |  |
+| [group-anagrams-49.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/group-anagrams-49.cpp) |  Key Generation using Freq Map - [Leetcode 49](https://leetcode.com/problems/group-anagrams) |
 | [largest-unique-number-1133.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/largest-unique-number-1133.cpp) |  Reverse Iterator with Map - [Leetcode 1133](https://leetcode.com/problems/largest-unique-number) |
 | [longest-consecutive-sequence-128.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/longest-consecutive-sequence-128.cpp) |  Elevated TwoSum - [Leetcode 128](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | [minimum-number-of-keypresses-2268.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Hash_Table/minimum-number-of-keypresses-2268.cpp) |  Frequency Map w/ Basic Sorting - [Leetcode 2268](https://leetcode.com/problems/minimum-number-of-keypresses/description/) |
