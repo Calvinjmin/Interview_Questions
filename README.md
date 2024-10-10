@@ -93,6 +93,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | File Name | Description |
 |---|---|
 | [kth-largest-element-in-array-215.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Heap/kth-largest-element-in-array-215.cpp) |  Min Heap O(n) Loop - [Leetcode 215](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |
+| [meeting-rooms-ii-253.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Heap/meeting-rooms-ii-253.cpp) |  Using Heap with Basic Logic - [Leetcode 253](https://leetcode.com/problems/meeting-rooms-ii/description) |
 
 #### Trees
 
@@ -120,6 +121,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 
 | File Name | Description |
 |---|---|
+| [maximum-width-ramp-962.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Stacks/maximum-width-ramp-962.cpp) |  Using Sorted Stack and Traverse - [Leetcode 962](https://leetcode.com/problems/maximum-width-ramp/description/) |
 | [minimum-remove-to-make-valid-parentheses-1249.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Stacks/minimum-remove-to-make-valid-parentheses-1249.cpp) |  Valid Parentheses Sister Question - [Leetcode 1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) |
 
 #### Binary_Search
