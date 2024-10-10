@@ -9,6 +9,7 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | [best-time-to-buy-and-sell-stock-121.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/best-time-to-buy-and-sell-stock-121.cpp) |  Sliding Window - [Leetcode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
 | [gas-station-.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/gas-station-.cpp) |  Math Logic with Array Trackers - [Leetcode 134](https://leetcode.com/problems/gas-station/description/) |
 | [kids-with-the-greatest-number-of-candies-1431.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/kids-with-the-greatest-number-of-candies-1431.cpp) |  Array Manipulation with Max Value - [Leetcode 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/) |
+| [meeting-rooms-252.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/meeting-rooms-252.cpp) |  Basic 2D Vector Sorting - [Leetcode 252](https://leetcode.com/problems/meeting-rooms/description/) |
 | [minimum-time-difference-539.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Array/minimum-time-difference-539.cpp) |  Sorting and Converting String - [Leetcode 539](https://leetcode.com/problems/minimum-time-difference/description/) |
 
 #### Two_Pointer
