@@ -160,6 +160,12 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 |---|---|
 | [jump-game-55.py](https://github.com/Calvinjmin/Interview_Questions/blob/main/Python/Greedy/jump-game-55.py) | Max Jump as Greedy Choice - [Leetcode 55](https://leetcode.com/problems/jump-game/) |
 
+#### Dynamic_Programming
+
+| File Name | Description |
+|---|---|
+| [house-robber-198.py](https://github.com/Calvinjmin/Interview_Questions/blob/main/Python/Dynamic_Programming/house-robber-198.py) | Bottom Up DP - [Leetcode 198](https://leetcode.com/problems/house-robber/) |
+
 ---
 ### Resources
 Link to HackerRank - [Hackerank](https://www.hackerrank.com/) <br />

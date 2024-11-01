@@ -58,7 +58,7 @@ done
 echo "### Python Files" >> "$output_file"
 echo "" >> "$output_file"
 
-python_categories=("Backtracking" "Greedy")
+python_categories=("Backtracking" "Greedy" "Dynamic_Programming")
 
 # Modify the trim_description function to handle Python comments
 trim_description() {
