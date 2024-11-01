@@ -154,6 +154,12 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 |---|---|
 | [generate-parentheses-22.py](https://github.com/Calvinjmin/Interview_Questions/blob/main/Python/Backtracking/generate-parentheses-22.py) | Basic Backtracking - [Leetcode 22](https://leetcode.com/problems/generate-parentheses/description/) |
 
+#### Greedy
+
+| File Name | Description |
+|---|---|
+| [jump-game-55.py](https://github.com/Calvinjmin/Interview_Questions/blob/main/Python/Greedy/jump-game-55.py) | Max Jump as Greedy Choice - [Leetcode 55](https://leetcode.com/problems/jump-game/) |
+
 ---
 ### Resources
 Link to HackerRank - [Hackerank](https://www.hackerrank.com/) <br />
