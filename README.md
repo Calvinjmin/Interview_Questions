@@ -146,6 +146,14 @@ The purpose of this repo is to keep track of key algorithms/solutions for common
 | [add-two-numbers-2.cpp](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Linked_Lists/add-two-numbers-2.cpp) |  Tracking Two Linked Lists - [Leetcode 2](https://leetcode.com/problems/add-two-numbers/description/) |
 | [listNode.h](https://github.com/Calvinjmin/Interview_Questions/blob/main/C%2B%2B/Linked_Lists/listNode.h) |  Helper ListNode Struct |
 
+### Python Files
+
+#### Backtracking
+
+| File Name | Description |
+|---|---|
+| [generate-parentheses-22.py](https://github.com/Calvinjmin/Interview_Questions/blob/main/Python/Backtracking/generate-parentheses-22.py) | Basic Backtracking - [Leetcode 22](https://leetcode.com/problems/generate-parentheses/description/) |
+
 ---
 ### Resources
 Link to HackerRank - [Hackerank](https://www.hackerrank.com/) <br />
